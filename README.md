@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 ![](http://antzuhl.cn:4000/get/@tz424.readme)
+
+
+## Programming Languages
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=r&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)

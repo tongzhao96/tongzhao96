@@ -1,7 +1,7 @@
 ### Hi welcome to Tong's GitHub 👋
 
 
-<h1 align="center">Hi 👋, I'm Tong Zhao</h1>
+<h1 align="center">Hi 👋, I'm Tong</h1>
 <h3 align="center">A passionate programmer in data science</h3>
 
 - 🔭 I’m currently working on **NLP, Deep Learning**
